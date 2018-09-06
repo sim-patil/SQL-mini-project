@@ -5,7 +5,11 @@ Learning Objective of the project
 2. Learn and write basic SQL queries up to basic aggregations and joins
 3. Comment on SQL code
 
-The data used is in the "country_club" database. This database contains 3 tables:
-    i) the "Bookings" table,
-    ii) the "Facilities" table, and
-    iii) the "Members" table.
+# Data Used:
+The data used is in the "country_club" database. This database contains 3 tables: the "Bookings" table,the "Facilities" table, and the "Members" table.
+
+# Platform Used:
+Springboard' online SQL platform - https://sql.springboard.com/
+
+
+
