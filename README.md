@@ -9,7 +9,7 @@ Learning Objective of the project
 The data used is in the "country_club" database. This database contains 3 tables: the "Bookings" table,the "Facilities" table, and the "Members" table.
 
 # Platform Used:
-Springboard' online SQL platform - https://sql.springboard.com/
+Springboard online SQL platform - https://sql.springboard.com/
 
 
 
